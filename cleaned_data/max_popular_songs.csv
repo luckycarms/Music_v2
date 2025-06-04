@@ -1,0 +1,38 @@
+playlist_genre,track_popularity,track_artist,track_popularity,track_name,analysis_url
+pop,100,"Lady Gaga, Bruno Mars",100,Die With A Smile,https://api.spotify.com/v1/audio-analysis/2plbrEY59IikOBgBGLjaoe
+jazz,69,Nat King Cole,69,Unforgettable,https://api.spotify.com/v1/audio-analysis/648TTtYB0bH0P8Hfy0FmkL
+classical,75,"Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani",75,Experience,https://api.spotify.com/v1/audio-analysis/1BncfTJAWxrsxyT9culBrj
+hip-hop,92,"The Weeknd, Playboi Carti",92,Timeless (with Playboi Carti),https://api.spotify.com/v1/audio-analysis/1Es7AUAhQvapIcoh3qMKDL
+afrobeats,78,Tyla,78,PUSH 2 START,https://api.spotify.com/v1/audio-analysis/1Cbl3Yq8rHo7hhDQmLQagU
+latin,93,"Oscar Maydon, Fuerza Regida",93,Tu Boda,https://api.spotify.com/v1/audio-analysis/1cOboCuWYI2osTOfolMRS6
+latin,93,KAROL G,93,Si Antes Te Hubiera Conocido,https://api.spotify.com/v1/audio-analysis/6WatFBLVB0x077xWeoVc2k
+indian,73,"Pritam, Arijit Singh",73,Shayad,https://api.spotify.com/v1/audio-analysis/1smFN2CLqGROu0J0UyvDfL
+country,73,Kenny Rogers,73,The Gambler,https://api.spotify.com/v1/audio-analysis/5KqldkCunQ2rWxruMEtGh0
+r&b,87,Frank Ocean,87,Pink + White,https://api.spotify.com/v1/audio-analysis/3xKsf9qdS1CyvXSMEid6g8
+electronic,86,"The Chainsmokers, Coldplay",86,Something Just Like This,https://api.spotify.com/v1/audio-analysis/6RUKPb4LETWmmr3iAEQktW
+soul,81,Teddy Swims,81,Lose Control,https://api.spotify.com/v1/audio-analysis/6usohdchdzW9oML7VC4Uhk
+gaming,100,"Lady Gaga, Bruno Mars",100,Die With A Smile,https://api.spotify.com/v1/audio-analysis/2plbrEY59IikOBgBGLjaoe
+afrobeats,78,Tyla,78,PUSH 2 START,https://api.spotify.com/v1/audio-analysis/1Cbl3Yq8rHo7hhDQmLQagU
+j-pop,80,Creepy Nuts,80,Bling-Bang-Bang-Born,https://api.spotify.com/v1/audio-analysis/0kdqcbwei4MDWFEX5f33yG
+metal,83,System Of A Down,83,Chop Suey!,https://api.spotify.com/v1/audio-analysis/2DlHlPMa4M17kufBvI2lEN
+reggae,79,Bob Marley & The Wailers,79,Could You Be Loved,https://api.spotify.com/v1/audio-analysis/5O4erNlJ74PIF6kGol1ZrC
+k-pop,83,LISA,83,Rockstar,https://api.spotify.com/v1/audio-analysis/6vvPecFTmWxDfEJ6cYT1wa
+pop,100,"Lady Gaga, Bruno Mars",100,Die With A Smile,https://api.spotify.com/v1/audio-analysis/2plbrEY59IikOBgBGLjaoe
+arabic,88,"Travis Scott, Playboi Carti",88,FE!N (feat. Playboi Carti),https://api.spotify.com/v1/audio-analysis/42VsgItocQwOQC3XWZ8JNA
+rock,89,Linkin Park,89,The Emptiness Machine,https://api.spotify.com/v1/audio-analysis/2PnlsTsOTLE5jnBnNe2K0A
+metal,83,System Of A Down,83,Chop Suey!,https://api.spotify.com/v1/audio-analysis/2DlHlPMa4M17kufBvI2lEN
+punk,84,Gorillaz,84,Feel Good Inc.,https://api.spotify.com/v1/audio-analysis/0d28khcov6AiegSCpG5TuT
+blues,83,"Eminem, Rihanna",83,Love The Way You Lie,https://api.spotify.com/v1/audio-analysis/15JINEqzVMv3SvJTAXAKED
+folk,93,Gigi Perez,93,Sailor Song,https://api.spotify.com/v1/audio-analysis/2262bWmqomIaJXwCRHr13j
+indian,73,"Avvy Sra, Karan Aujla, Jaani",73,White Brown Black,https://api.spotify.com/v1/audio-analysis/3nKQrVVlwbAQSnFbgZWdN0
+lofi,73,"Kina, Snøw",73,Get You The Moon (feat. Snøw),https://api.spotify.com/v1/audio-analysis/4ZLzoOkj0MPWrTLvooIuaa
+latin,93,KAROL G,93,Si Antes Te Hubiera Conocido,https://api.spotify.com/v1/audio-analysis/6WatFBLVB0x077xWeoVc2k
+brazilian,78,"Mc Pogba, DJ Guih Da ZO",78,Ela Joga na Hora,https://api.spotify.com/v1/audio-analysis/6hZGsChumRhWG24OEh698c
+brazilian,78,"THE BOX, Mc Brinquedo, MC Cebezinho, MC Tuto, Mc Laranjinha, DJ Oreia",78,THE BOX MEDLEY FUNK 2,https://api.spotify.com/v1/audio-analysis/7IFsTX5H1sWcEl8joV0IdD
+turkish,75,Semicenk,75,Onlar Anlamaz Halden,https://api.spotify.com/v1/audio-analysis/38d47UiHhyu4wdbPYz0ZUB
+turkish,75,Semicenk,75,Geçiyor Zaman,https://api.spotify.com/v1/audio-analysis/3ma4Ef3Bnl3UBOV4ShiMLX
+hip-hop,92,"The Weeknd, Playboi Carti",92,Timeless (with Playboi Carti),https://api.spotify.com/v1/audio-analysis/1Es7AUAhQvapIcoh3qMKDL
+ambient,88,Mitski,88,My Love Mine All Mine,https://api.spotify.com/v1/audio-analysis/3vkCueOmm7xQDoJ17W1Pm3
+korean,74,Stevie Wonder,74,I Just Called To Say I Love You,https://api.spotify.com/v1/audio-analysis/6RNDeRnWsRMjPdNVgupZCs
+world,77,Jósean Log,77,Chachachá,https://api.spotify.com/v1/audio-analysis/6aommJFM8i3iT4inKuDSXh
+indie,79,Tame Impala,79,Borderline,https://api.spotify.com/v1/audio-analysis/5hM5arv9KDbCHS0k9uqwjr
